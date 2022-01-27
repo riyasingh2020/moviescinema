@@ -7,8 +7,8 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
-    "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
+    "repository": "https://github.com/amishasingh2020/moviescinema",
+    "website": "https://github.com/amishasingh2020/moviescinema",
     "success_url": "https://t.me/cloudsmirror",
     "stack": "container",
     "env": {
